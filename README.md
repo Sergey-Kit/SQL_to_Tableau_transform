@@ -17,3 +17,6 @@ Descriptors:
 2) Visualisation was made in trial version of Tableau, so dashboard is preserved only in screenshot format.
 
 Feel free to contact me to ask a question.
+
+![Dashboard_screenshoot](https://user-images.githubusercontent.com/82327055/168783952-bf38c662-d35b-40c0-94fe-e7724ea350b1.png)
+
