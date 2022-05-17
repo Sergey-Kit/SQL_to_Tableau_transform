@@ -20,7 +20,7 @@ Events in order:
 - 5 payment.attempt
 - 6 payment.success
 
-1) Two SQL files because of my both left hands) 
+1) Prepare data in MS SQL. Two SQL files because of my both left hands) The first file-query creates an intermediate table to use it in second file-query.
 
 2) Visualisation was made in trial version of Tableau, so dashboard is preserved only in screenshot format.
 
