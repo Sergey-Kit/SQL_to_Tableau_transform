@@ -13,12 +13,12 @@ Descriptors:
 - event — произошедшее событие
 
 Events in order:
--1 landing.unique-visit
--2 register-confirm-code-success
--3 editor.add.click
--4 editor-link.copy.click
--5 payment.attempt
--6 payment.success
+- 1 landing.unique-visit
+- 2 register-confirm-code-success
+- 3 editor.add.click
+- 4 editor-link.copy.click
+- 5 payment.attempt
+- 6 payment.success
 
 1) Two SQL files because of my both left hands) 
 
