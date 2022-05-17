@@ -1,7 +1,7 @@
 # SQL_to_Tableau_transform
 The task is to build a dashboard with a product funnel to see the main conversion of the product.
 
-Descriptors: 
+Descriptors: /n
 localUserId — идентификатор пользователя 
 dateTime — дата события 
 utm_campaign — название кампании 
